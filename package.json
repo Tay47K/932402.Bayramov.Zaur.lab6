@@ -1,0 +1,9 @@
+{
+  "name": "quote-pwa",
+  "version": "1.0.0",
+  "description": "Лабораторная №6, вариант 14: Генератор цитат (Express + PWA)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "ISC",
+  "dependencies": { "express": "^4.19.2" }
+}
